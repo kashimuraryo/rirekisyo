@@ -1,0 +1,94 @@
+
+.title {
+    font-size: 11pt;
+    font-family: ＭＳ ゴシック
+}
+
+.furi {
+    font-size: 7pt;
+    font-family: ＭＳ 明朝
+}
+
+.pic {
+    font-size: 7pt;
+    font-family: ＭＳ 明朝
+}
+
+.sex {
+    font-size: 7pt;
+    font-family: ＭＳ 明朝
+}
+
+.idx {
+    font-size: 7pt;
+    font-family: ＭＳ 明朝;
+    line-height:7pt
+}
+
+.kenko {
+    font-size: 18pt;
+    font-family: ＭＳ 明朝
+}
+
+.text {
+    font-size: 11pt;
+    font-family: ＭＳ 明朝
+}
+
+.textlist {
+    font-size: 11pt;
+    font-family: ＭＳ 明朝;
+    line-height: 7.2mm;
+}
+
+.textlist3 {
+    font-size: 9pt;
+    font-family: ＭＳ 明朝;
+    line-height: 5.0mm
+}
+
+.textlist2 {
+    font-size: 11pt;
+    font-family: ＭＳ 明朝;
+    line-height: 7.2mm
+}
+
+.texthide {
+    font-size: 11pt;
+    font-family: ＭＳ 明朝;
+    line-height: 7.2mm;
+    color: white
+}
+
+.shimei {
+    font-size: 22pt;
+    font-family: ＭＳ 明朝;
+    letter-spacing: 2pt
+}
+
+.furix {
+    font-size: 7pt;
+    font-family: ＭＳ 明朝;
+    letter-spacing: 4pt
+}
+
+.furix2 {
+    font-size: 7pt;
+    font-family: ＭＳ 明朝
+}
+
+.adr {
+    font-size: 11pt;
+    font-family: ＭＳ 明朝
+}
+
+.textl {
+    font-size: 14pt;
+    font-family: ＭＳ 明朝
+}
+
+.textlist2d {
+    font-size: 11pt;
+    font-family: ＭＳ Ｐ明朝;
+    line-height: 7.2mm
+}
